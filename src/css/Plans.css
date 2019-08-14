@@ -1,0 +1,66 @@
+.top{
+    width: 100%;
+    background: #f7f7f7;
+    display: block;
+
+}
+
+
+.imgPla{
+    height: 50px;
+    width: 50px;
+
+}
+.ourPlans{
+    color: #003300;
+}
+
+.PlansSecond{
+    font-weight: 300;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    line-height: 1.563rem;
+    letter-spacing: normal;
+    color: #030;
+}
+
+.picture1{
+    background-image: url("../image/meal.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 50%;
+
+}
+
+.picture2{
+    background-image: url("../image/teriyaki.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.picture3{
+    background-image: url("../image/teriyaki_plated_urly5f.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.plansCard:hover{
+    background: beige;
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+
+.plansCard:active{
+    background: #f0f0d7;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
+}
+
+.plansCard{
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+

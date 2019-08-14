@@ -1,0 +1,33 @@
+#toggler{
+    background: white;
+    text-align: left;
+    display: block;
+    margin: auto;
+    width: 45%;
+    color: #003300;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    border-bottom: inset;
+    border-top: none;
+}
+
+#toggler:hover{
+    background: #f5f5f5;
+    box-shadow: none;
+
+}
+
+
+
+#toggler:focus{
+    box-shadow: none;
+
+}
+
+#drop{
+
+    width: 45%;
+    margin: auto;
+    text-align: left;
+}

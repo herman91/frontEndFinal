@@ -1,0 +1,92 @@
+body{
+    overflow-x: hidden;
+}
+
+.sign{
+    position: absolute;
+    color: white;
+    bottom: 19%;
+    padding: 0px 100px 0px 10px;
+    margin-left: 20%;
+    display: block;
+
+    background: radial-gradient(circle, rgba(0,0,0,1) 7%, rgba(0,0,0,0) 85%);
+
+    font-size: 6vh;
+    text-align: center;
+}
+
+
+.sign2{
+    position: absolute;
+    color: white;
+    bottom: 5%;
+    padding: 0px 100px 0px 10px;
+    margin-left: 20%;
+    display: block;
+    background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(0,0,0,0.8) 8%,rgba(0,0,0,1) 16%,rgba(0,0,0,1) 20%,rgba(0,0,0,1) 31%,rgba(0,0,0,0.95) 41%,rgba(0,0,0,0.8) 71%,rgba(0,0,0,0) 100%);
+    font-size: 5vh;
+    text-align: left;
+}
+
+.coll{
+
+    text-align: left;
+}
+
+.collWhoWeAre{
+    text-align: center;
+}
+
+.WhoWeAre{
+    font-size: 5vh;
+}
+
+.coll1{
+    background-image: url("../image/chef2.jpeg");
+    background-repeat: no-repeat;
+    background-position-x: 71%;
+
+}
+strong .WhoWeAre{
+    text-align: center;
+}
+
+.coll2{
+    background-image: url("../image/chef1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+
+.CardB{
+    display: block;
+    width: 550px;
+
+    min-height: 20vh;
+
+    bottom: 10%;
+    color: black;
+    padding: 0px 100px 0px 10px;
+    margin-left: 11%;
+    position: absolute;
+
+    background: radial-gradient(circle, rgba(0,0,0,1) 7%, rgba(0,0,0,0) 85%);
+}
+
+
+.btn-secondary{
+    background: green;
+}
+.sig{
+    background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(245,245,220,0.8) 8%,rgba(245,245,220,1)
+    16%,rgba(245,245,220,1) 20%,rgba(245,245,220,1) 31%,rgba(245,245,220,0.95) 41%,rgba(245,245,220,0.8) 71%,rgba(245,245,220,0) 100%);
+}
+
+.CardB{
+    background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(245,245,220,0.8) 8%,rgba(245,245,220,1)
+    16%,rgba(245,245,220,1) 20%,rgba(245,245,220,1) 31%,rgba(245,245,220,0.95) 41%,rgba(245,245,220,0.8) 71%,rgba(245,245,220,0) 100%);
+}
+.CardB:hover{
+    background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(245,245,220,0.8) 8%,rgba(245,245,220,1)
+    16%,rgba(245,245,220,1) 20%,rgba(245,245,220,1) 31%,rgba(245,245,220,0.95) 41%,rgba(245,245,220,0.8) 71%,rgba(245,245,220,0) 100%);
+}

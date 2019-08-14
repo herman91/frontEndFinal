@@ -1,0 +1,43 @@
+button{
+    margin-top: 0px;
+    width: auto;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #28a745;
+}
+
+.nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: orange;
+}
+
+.carousel-indicators{
+    display: none;
+}
+
+Navbar{
+    position: fixed;
+}
+.nav-item{
+    margin-right: 3%;
+    display: block;
+    width: auto;
+}
+ul.navbar-nav{
+    width:40%;
+}
+
+li a{
+    color: #28a745;
+}
+
+li a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+li a:active {
+    color: #d77d00;
+}
